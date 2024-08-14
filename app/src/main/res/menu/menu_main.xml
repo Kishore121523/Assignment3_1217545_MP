@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_motivational_quote"
+        android:title="Daily Motivation"/>
+    <item
+        android:id="@+id/menu_add_new_wish"
+        android:title="Add a New Wish"/>
+</menu>
